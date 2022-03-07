@@ -7,7 +7,7 @@ Executando o projeto:
 
 Crie um clone do repositório:
 
-git clone https://github.com/phenriquecunha/AcademiaCapgemini.git
+git clone git@github.com:Mukkz/Capgemini.gitg
 Localize o diretório;
 
 java .\src\Desafio2\Question1.java
