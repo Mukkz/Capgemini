@@ -1,18 +1,14 @@
-Desafio Capgemini
+# Desafio Capgemini
 
-Java
-IntelliJ
+##Linguagem: Java
+##IDE: IntelliJ
 
-Executando o projeto:
+#Executando o projeto:
 
-Crie um clone do repositório:
-
-git clone git@github.com:Mukkz/Capgemini.gitg
-Localize o diretório;
+Crie um clone do repositório, localize o diretório e execute-o.
 
 java .\src\Desafio2\Question1.java
+
 java .\src\Desafio2\Question2.java
+
 java .\src\Desafio2\Question3.java
-
-
-At.te
